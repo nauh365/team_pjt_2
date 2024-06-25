@@ -1,5 +1,3 @@
-> **[LIKELION]** TECHIT BACK-END SCHOOL 8기
-
 - 프로젝트 기간: 2024.04.11 ~ 2024.05.03
 - Team: Riders 🚴🏻
 
